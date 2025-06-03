@@ -1,5 +1,5 @@
                   Automatyczny bot do Margonem — E2
-                             wersja: 1.0.0
+                             wersja: 1.0
 
 		W CELU ZAKUPU LICENCJI SKONTAKTUJ SIĘ
 		  ZE MNĄ POPRZEZ DISCORDA 'XANKEEM'
